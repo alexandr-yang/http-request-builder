@@ -1,4 +1,4 @@
-## Работа с HTTP-запросами по паттрену [Строитель](https://refactoring.guru/ru/design-patterns/builder)
+## Работа с HTTP-запросами по паттерну [Строитель](https://refactoring.guru/ru/design-patterns/builder)
 
 ### Пример использования:
 ```
