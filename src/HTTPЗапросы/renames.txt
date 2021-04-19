@@ -1,0 +1,7 @@
+﻿3f24c941-c9d5-4386-9213-493cf5c36314.0\info-->und\3f24c941-c9d5-4386-9213-493cf5c36314.0\info
+3f24c941-c9d5-4386-9213-493cf5c36314.0\text-->ObjectModule.bsl
+91a96aae-68ec-445a-a512-267dc1daed20-->und\91a96aae-68ec-445a-a512-267dc1daed20
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
